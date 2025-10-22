@@ -242,7 +242,7 @@ const cards = [
   {
     description: "AI in Job Search!",
     title: "Exploiting NLPs for job search",
-    src: "https://miro.medium.com/v2/resize:fit:640/format:webp/1*0TNbqSW1gIJDCwtlQDgrqw-min.png",
+    src: "https://miro.medium.com/v2/resize:fit:640/format:webp/1*0TNbqSW1gIJDCwtlQDgrqw.png",
     ctaText: "Visit",
     ctaLink: "https://ui.aceternity.com/templates",
     techStack: ["Meduim", "Linkdein"],

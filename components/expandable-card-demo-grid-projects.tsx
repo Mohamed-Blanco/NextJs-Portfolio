@@ -301,7 +301,7 @@ const cards = [
     description: "Fully high speed automated Linkdein job scrapper .",
     date: "February 2024 ",
     title: "CareerRadar !",
-    src: "/images/career.jpg",
+    src: "/images/careerRadar.jpg",
     ctaText: "View",
     ctaLink: "/projects/jobscrapper",
     techStack: [
@@ -479,7 +479,7 @@ const cards = [
       "This project is part of Angela Yu’s Web Development Bootcamp 2021 .",
     title: "Simpsons Memory Game !",
     date: "February 2024 ",
-    src: "/images/Screenshot from 2025-09-05 15-23-17-min.png",
+    src: "/images/simpsongame.png",
     ctaText: "View",
     ctaLink: "https://github.com/Mohamed-Blanco/android-qoutes-application",
     techStack: [
@@ -505,7 +505,7 @@ const cards = [
   {
     description: "Developed and published an Moroccan Recipes on android app.",
     title: "Recipy ?",
-    src: "/images/Recipy.svg",
+    src: "/images/recipy-min.png",
     date: "February 2024 ",
     ctaText: "View",
     ctaLink: "https://github.com/Mohamed-Blanco/android-cooking-recipes",
@@ -556,10 +556,10 @@ const cards = [
   {
     description: "Built an Weather app inspired by the ios weather app",
     title: "Weather Phone App",
-    src: "/images/sunsetimg.jpg",
+    src: "/images/sunsetimg-min.jpg",
     date: "February 2024 ",
     ctaText: "View",
-    ctaLink: "https://github.com/Mohamed-Blanco/weather-app",
+    ctaLink: "/images/sunsetimg-min.jpg",
     techStack: [
       "HTML",
       "JavaScript",
