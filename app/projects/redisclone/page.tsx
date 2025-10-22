@@ -113,7 +113,7 @@ export default function RedisClone() {
             {/* Hero Image */}
             <div className="w-full">
               <img
-                src="/images/redis-clone-min.png"
+                src="/images/RESP.jpg"
                 className="w-full h-auto rounded-md shadow-lg border border-gray-700/50"
               />
             </div>
